@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay Trivedi</h1>
 <h3 align="center">A budding Cloud Engineer</h3>
 
-- 🔭 I’m currently working on **vpc-project**
+- 🔭 I’m currently working on **RDS**
 
 - 🌱 I’m currently learning **Devops**
 
